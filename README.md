@@ -10,3 +10,5 @@ $ truffle develop
 $ truffle (develop) > migrate --reset
 
 $ truffle (develop) > test *Checks whether the test cases have passed *
+
+This is my new Demo
